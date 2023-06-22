@@ -1,6 +1,6 @@
 # my_app
 
-A new Flutter project.
+A new Flutter project. This is just play aroun flutter. After this there will be android application that is fully functional for specific purpose. For now let's learn it!
 
 ## Getting Started
 
